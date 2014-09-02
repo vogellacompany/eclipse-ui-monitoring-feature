@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.ui.monitoring.feature_1.0.0.qualifier.jar" id="org.eclipse.ui.monitoring.feature" version="1.0.0.qualifier">
+      <category name="ui_freeze_monitoring"/>
+   </feature>
+   <category-def name="ui_freeze_monitoring" label="Eclipse IDE interactive UI monitoring"/>
+</site>
